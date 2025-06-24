@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage("Hello") {
             steps {
-                echo "Hello world class room raw "
+                echo "Hello world class room raw material "
             }
         }
     }
